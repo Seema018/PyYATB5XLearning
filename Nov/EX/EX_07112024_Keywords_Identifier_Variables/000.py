@@ -6,3 +6,6 @@ mul=num1*num2
 print("value",sum)
 print("value",sub)
 print("hh",mul)
+
+print(Len(name))
+print(name.upper())
